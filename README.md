@@ -1,6 +1,7 @@
+school homework
+
 # Name to Binary convertor.
 
----
 This application is an educational graphical application that converts the text entered by the user into the binary system and returns the resulting binary code to the user. Its purpose is to show how characters are written in binary format on a computer and to simplify the understanding of the basic principles of coding.
 
 ## The main functionality
