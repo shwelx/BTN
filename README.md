@@ -1,8 +1,10 @@
-old school homework
+<img width="355" height="273" alt="Screenshot 2026-11-22 at 1 24 23 AM" src="https://github.com/user-attachments/assets/11a915bc-0e2b-4a80-b1b4-7b743ea43a5a" />old school homework
 
 # Name to Binary convertor.
 
 This application is an educational graphical application that converts the text entered by the user into the binary system and returns the resulting binary code to the user. Its purpose is to show how characters are written in binary format on a computer and to simplify the understanding of the basic principles of coding.
+
+![Uploading Screenshot 2026-11-22 at 1.25.04 AM.png…]()
 
 ## The main functionality
 
@@ -16,7 +18,7 @@ This application is an educational graphical application that converts the text 
 - Current time display in binary system.
 - Allow only Georgian (Mkhedruli) or Latin (English) characters depending on the selected language (additionally allows spaces to accommodate names that contain more than one word).
 
-## Technology Used
+## Tech Used
 
 - [**Python3**](https://www.python.org)
 - **ReGex**
